@@ -4,3 +4,4 @@ add by dev-1
 add by shenzhou
 add by thinkpad master
 add by shenzhou_2
+add by thinkpad_3
